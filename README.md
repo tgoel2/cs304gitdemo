@@ -3,4 +3,6 @@ file in it, and a templates folder with some files.
 
 Started implementing my personal project ...
 
+I'm logged in as cs304 guest, and I haven't signed into any accounts in my VS Code.
+
 
